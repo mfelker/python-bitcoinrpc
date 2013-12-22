@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/opt/local/bin/env python
 
 from distutils.core import setup
 
